@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(219, 185, 252);
+}
+.img-float{
+    width: 300px;
+    float: left;
+    margin: 0 20px 0 100px;
+    
+}
+.text{
+    font-size: 26px;
+}
+.conteiner{
+    border: 3px solid;
+    border-radius: 5px;
+    background-color: beige;
+    padding: 4%;
+    overflow: auto;
+    margin-bottom: 5px;
+}
+.img-r{
+    float: right;
+    height: 150px;
+    border-radius: 2px;
+    margin: 5px;
+}
+.copil{
+    overflow: auto;
+    float: left;
+    width: 450px;
+    height: 600px;
+    background-color: aliceblue;
+    border: 2px solid rgb(116, 116, 22);
+    border-radius: 7px;
+    padding: 5px;
+    margin: 2%;
+}
+#tata{
+    overflow: auto;
+    min-height: 600px;
+}
